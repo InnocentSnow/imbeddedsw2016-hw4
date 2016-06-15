@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">20111638</string>
+	<string name="profile">20111638 엄기문</string>
+	<string name="puzzleStart">Start Puzzle</string>
+	<string name="makeButton">Make Buttons</string>
+	<string name="wrongArguments">
+	    Wrong Arguments!\n
+	    Input format should be [row col]\n
+	    row and col must be positive integer\n
+	    row = 1, col = 1 is not allowed
+	    </string>
+</resources>
